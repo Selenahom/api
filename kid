@@ -5,7 +5,7 @@
 "img3":"https://i.pinimg.com/736x/44/39/32/443932f3febefa1083a2f879e49455f6.jpg",
 "name":"ၶူဝ်းတႆး (Tai Dress)",
 "size":"S,M,L,XL",
-"color"="blue, white, black",
+"color":"blue, white, black",
 "price":"100000mmk"
 },
 {
