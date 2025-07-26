@@ -6,7 +6,7 @@
 "name":"သိၼ်ႈတႆး (Tai Dress)",
 "size":"S,M,L,XL",
 "color":"blue, white, black",
-"price":"100000mmk"
+"price":"100,000 Ks"
 },
 {
 "img":"https://i.pinimg.com/736x/57/3e/36/573e3635d728af3036bad39ab51d9eec.jpg",
@@ -15,7 +15,7 @@
 "name":"သိၼ်ႈတႆး (Tai Dress)",
 "size":"S,M,L,XL",
 "color":"blue, white, green, red",
-"price":"90000mmk"
+"price":"90,000 Ks"
 },
 {
 "img":"https://i.pinimg.com/1200x/b0/2f/d6/b02fd6f6581e921888b10fc133cf6075.jpg",
@@ -24,7 +24,7 @@
 "name":"သိၼ်ႈတႆး (Tai Dress)",
 "size":"S,M,L,XL",
 "color":"dark blue, white, green",
-"price":"90000mmk"
+"price":"90,000 Ks"
 },
 {
 "img":"https://i.pinimg.com/1200x/ce/7c/9b/ce7c9bf0a68160a3eab5b947d35cbe4b.jpg",
@@ -33,7 +33,7 @@
 "name":"သိၼ်ႈတႆး (Tai Dress)",
 "size":"S,M,L,XL",
 "color":"white, green, red",
-"price":"80000mmk"
+"price":"80,000 Ks"
 },
 {
 "img":"https://i.pinimg.com/1200x/d3/7c/71/d37c7152590d7343156b121ede5aabd4.jpg",
@@ -42,7 +42,7 @@
 "name":"သိၼ်ႈတႆး (Tai Dress)",
 "size":"S,M,L,XL",
 "color":"white, green, red",
-"price":"70000mmk"
+"price":"70,000 Ks"
 },
 {
 "img":"https://i.pinimg.com/1200x/67/8d/25/678d254c42cfd5b4a327699921683429.jpg",
@@ -51,7 +51,7 @@
 "name":"သိၼ်ႈတႆး (Tai Dress)",
 "size":"S,M,L,XL",
 "color":"white, green, red",
-"price":"100000mmk"
+"price":"100,000 Ks"
 },
 {
 "img":"https://i.pinimg.com/1200x/00/15/77/0015775a2c1df79b5636f86e2367f801.jpg",
@@ -60,7 +60,7 @@
 "name":"သိၼ်ႈတႆး (Tai Dress)",
 "size":"S,M,L,XL",
 "color":"white, green, red",
-"price":"80000mmk"
+"price":"80,000 Ks"
 },
 {
 "img":"https://i.pinimg.com/736x/7c/29/b4/7c29b42ff0e49e3ceb52e2ed0ddba3a8.jpg",
@@ -69,7 +69,7 @@
 "name":"သိၼ်ႈတႆး (Tai Dress)",
 "size":"S,M,L,XL",
 "color":"yellow, white, green",
-"price":"80000mmk"
+"price":"80,000 Ks"
 },
 {
 "img":"https://i.pinimg.com/1200x/32/9f/00/329f0076a7a801bf1e24b5a9821026be.jpg",
@@ -78,7 +78,7 @@
 "name":"သိၼ်ႈတႆး (Tai Dress)",
 "size":"S,M,L,XL",
 "color":"yellow, white, green, red",
-"price":"80000mmk"
+"price":"80,000 Ks"
 },
 {
 "img":"https://i.pinimg.com/1200x/86/ac/54/86ac549e2c5c6c2c48061e3fe7189105.jpg",
@@ -87,7 +87,7 @@
 "name":"သိၼ်ႈတႆး (Tai Dress)",
 "size":"S,M,L,XL",
 "color":"yellow, white, blue, red",
-"price":"80000mmk"
+"price":"80,000 Ks"
 },
 {
 "img":"https://i.pinimg.com/1200x/c6/38/ad/c638ad4d152539c678ec4861e33a73e8.jpg",
@@ -96,7 +96,7 @@
 "name":"သိၼ်ႈတႆး (Tai Dress)",
 "size":"S,M,L,XL",
 "color":"yellow, white, blue",
-"price":"80000mmk"
+"price":"80,000 Ks"
 },
 {
 "img":"https://i.pinimg.com/1200x/16/be/56/16be569a307c5228f13a536b62fd1327.jpg",
@@ -105,7 +105,7 @@
 "name":"သိၼ်ႈတႆး (Tai Dress)",
 "size":"S,M,L,XL",
 "color":"yellow, white, blue",
-"price":"100000mmk"
+"price":"100,000 Ks"
 },
 {
 "img":"https://i.pinimg.com/1200x/be/d8/89/bed889a9e59ee65ea124421073c7c6fa.jpg",
@@ -114,7 +114,7 @@
 "name":"သိၼ်ႈတႆး (Tai Dress)",
 "size":"S,M,L,XL",
 "color":"yellow, white, blue",
-"price":"80000mmk"
+"price":"80,000 Ks"
 },
 {
 "img":"https://i.pinimg.com/736x/2d/97/e6/2d97e676a0b2a1e077fe53b72403091e.jpg",
@@ -123,6 +123,6 @@
 "name":"သိၼ်ႈတႆး (Tai Dress)",
 "size":"S,M,L,XL",
 "color":"yellow, white, blue",
-"price":"80000mmk"
+"price":"80,000 Ks"
 }
 ]
